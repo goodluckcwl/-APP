@@ -13,3 +13,6 @@
 2、重要不紧迫
 3、紧迫不重要
 4、不重要不紧迫
+
+# 架构
+![](https://github.com/goodluckcwl/-APP/raw/master/DayPlay.jpg)
